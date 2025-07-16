@@ -5,8 +5,7 @@
   </mj-head>
   <mj-body>
     <mj-wrapper padding="0" background-color="#ffffff">
-      <mj-hero height="578px" background-width="600px" background-height="578px" mode="fluid-height" background-url="https://evgenydibrovsky.github.io/newsletter-toyota
-/images/header.jpg" background-color="#2a3448" padding="0px"> </mj-hero>
+      <mj-hero height="578px" background-width="600px" background-height="578px" mode="fluid-height" background-url="https://evgenydibrovsky.github.io/newsletter-toyota/images/header.jpg" background-color="#2a3448" padding="0px"> </mj-hero>
 
       <mj-section padding-top="20px" padding-left="4%" padding-right="4%">
         <mj-column>
@@ -59,8 +58,7 @@
           >
             CHCĘ WIEDZIEĆ WIĘCEJ
           </mj-button> -->
-          <mj-image width="300px" padding="0" align="left" src="https://evgenydibrovsky.github.io/newsletter-toyota
-/images/btn.png" href="https://google.com" />
+          <mj-image width="300px" padding="0" align="left" src="https://evgenydibrovsky.github.io/newsletter-toyota/images/btn.png" href="https://google.com" />
         </mj-column>
       </mj-section>
 
@@ -92,8 +90,7 @@
 <mj-section>
 <mj-group>
 <mj-column width="20%">
-<mj-image src="https://evgenydibrovsky.github.io/newsletter-toyota
-/images/nr1.png" width="40px" height="40px">
+<mj-image src="https://evgenydibrovsky.github.io/newsletter-toyota/images/nr1.png" width="40px" height="40px">
 </mj-column>
 
 <mj-column>
