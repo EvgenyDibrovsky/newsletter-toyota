@@ -7,7 +7,7 @@
     <mj-wrapper padding="0" background-color="#ffffff">
       <mj-hero height="578px" background-width="600px" background-height="578px" mode="fluid-height" background-url="./images/header.jpg" background-color="#2a3448" padding="0px"> </mj-hero>
 
-      <mj-section padding-bottom="20px" padding-top="5px" padding-left="0" padding-right="0" background-url="./images/bg.jpg">
+      <mj-section padding-bottom="20px" padding-top="7px" padding-left="0" padding-right="0" background-url="./images/bg.jpg">
         <mj-column padding="0">
           <mj-image src="./images/btn.png" align="center" padding="0" width="134px" height="40px" target="_black" href="http://wakacjedobrygowski.pl/" />
         </mj-column>
