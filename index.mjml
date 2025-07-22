@@ -5,7 +5,7 @@
   </mj-head>
   <mj-body>
     <mj-wrapper padding="0" background-color="#ffffff">
-      <mj-hero height="578px" background-width="600px" background-height="578px" mode="fluid-height" background-url="./images/header.jpg" background-color="#2a3448" padding="0px"> </mj-hero>
+      <mj-hero height="578px" background-width="600px" background-height="538px" mode="fluid-height" background-url="./images/header.jpg" background-color="#2a3448"> </mj-hero>
 
       <mj-section padding-bottom="20px" padding-top="7px" padding-left="0" padding-right="0" background-url="./images/bg.jpg">
         <mj-column padding="0">
