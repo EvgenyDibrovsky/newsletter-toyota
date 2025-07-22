@@ -7,24 +7,18 @@
     <mj-wrapper padding="0" background-color="#ffffff">
       <mj-hero height="578px" background-width="600px" background-height="578px" mode="fluid-height" background-url="./images/header.jpg" background-color="#2a3448" padding="0px"> </mj-hero>
 
-      <mj-section padding-bottom="20px" padding-top="5px" padding-left="4%" padding-right="4%" background-url="./images/bg.jpg">
+      <mj-section padding-bottom="20px" padding-top="5px" padding-left="0" padding-right="0" background-url="./images/bg.jpg">
         <mj-column padding="0">
-          <mj-image src="./images/btn.png" align="center" padding="0" width="134px" height="40px" href="./" />
+          <mj-image src="./images/btn.png" align="center" padding="0" width="134px" height="40px" target="_black" href="http://wakacjedobrygowski.pl/" />
         </mj-column>
       </mj-section>
 
-      <mj-section padding-bottom="0" padding-top="0" padding-left="4%" padding-right="4%">
-        <mj-group>
-          <mj-column width="10%" padding="0">
-            <mj-image src="./images/nr1.png" align="left" padding="0" width="40px" height="40px" />
-          </mj-column>
-        </mj-group>
-      </mj-section>
-
-      <mj-section padding-bottom="38px" padding-top="37px" padding-left="4%" padding-right="4%" background-color="#2C3F4D">
+      <mj-section padding-bottom="38px" padding-top="37px" padding-left="0" padding-right="0" background-color="#2C3F4D">
         <mj-group>
           <mj-column padding="0">
-            <mj-text color="#ffffff" align="center" font-size="15px" line-height="18px" text-transform="uppercase" font-family="Arial, sans-serif;"> TOYOTA DOBRYGOWSKI </mj-text>
+            <mj-text padding-left="0" padding-right="0" color="#ffffff" align="center" font-size="15px" line-height="18px" text-transform="uppercase" font-family="Arial, sans-serif;">
+              TOYOTA DOBRYGOWSKI
+            </mj-text>
             <mj-text padding="0" color="#ffffff" align="center" font-size="15px" line-height="22px" font-family="Arial, sans-serif;"> ul. Częstochowska 30, 32-085 Modlnica </mj-text>
             <mj-text padding="0" color="#ffffff" align="center" font-size="15px" line-height="22px" font-family="Arial, sans-serif;"> ul. Prosta 110, 44-203 Rybnik </mj-text>
           </mj-column>
