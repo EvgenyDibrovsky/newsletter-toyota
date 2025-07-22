@@ -24,14 +24,12 @@
       <mj-section padding-bottom="38px" padding-top="37px" padding-left="4%" padding-right="4%" background-color="#2C3F4D">
         <mj-group>
           <mj-column padding="0">
-            <mj-text color="#ffffff" align="center" font-size="15px" line-height="18px" font-family="Arial, sans-serif;"> TOYOTA DOBRYGOWSKI </mj-text>
+            <mj-text color="#ffffff" align="center" font-size="15px" line-height="18px" text-transform="uppercase" font-family="Arial, sans-serif;"> TOYOTA DOBRYGOWSKI </mj-text>
             <mj-text padding="0" color="#ffffff" align="center" font-size="15px" line-height="22px" font-family="Arial, sans-serif;"> ul. Częstochowska 30, 32-085 Modlnica </mj-text>
             <mj-text padding="0" color="#ffffff" align="center" font-size="15px" line-height="22px" font-family="Arial, sans-serif;"> ul. Prosta 110, 44-203 Rybnik </mj-text>
           </mj-column>
         </mj-group>
       </mj-section>
-
-      #2C3F4D
     </mj-wrapper>
   </mj-body>
 </mjml>
